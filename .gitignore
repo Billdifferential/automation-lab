@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PowerShell
+*.ps1xml
+$RECYCLE.BIN/
+
+# Credentials / secrets - never commit these
+*.env
+.env
+secrets.json
+*token*
+*credential*
+*.pfx
+*.key
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs / output
+*.log
+output/
