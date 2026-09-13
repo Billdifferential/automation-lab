@@ -1,0 +1,901 @@
+TicketID,CreatedDate,ResolvedDate,Category,Priority,AssignedTo,Status
+TICK-1001,2026-09-03 03:17,2026-09-03 21:30,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1002,2026-09-01 16:07,2026-09-02 07:22,Hardware Fault,Low,J. Smith,Resolved
+TICK-1003,2026-09-05 17:12,2026-09-05 21:16,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1004,2026-09-06 18:35,2026-09-07 01:20,Account/Access,Low,A. Patel,Resolved
+TICK-1005,2026-08-18 04:03,2026-08-18 11:52,Account/Access,Low,W. Thurkle,Resolved
+TICK-1006,2026-09-06 01:25,2026-09-06 15:34,Printer/Device,Low,A. Patel,Resolved
+TICK-1007,2026-09-01 13:23,2026-09-01 21:45,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1008,2026-09-09 23:09,2026-09-10 09:19,Account/Access,Medium,J. Smith,Resolved
+TICK-1009,2026-08-26 03:17,2026-08-26 07:21,Hardware Fault,High,J. Smith,Resolved
+TICK-1010,2026-08-31 01:41,2026-09-01 00:02,Account/Access,Low,J. Smith,Resolved
+TICK-1011,2026-09-04 20:00,2026-09-04 22:43,Application Support,Low,A. Patel,Resolved
+TICK-1012,2026-08-27 00:09,2026-08-27 09:03,Network Connectivity,Medium,J. Smith,Resolved
+TICK-1013,2026-09-03 18:31,2026-09-03 22:26,Network Connectivity,Medium,J. Smith,Resolved
+TICK-1014,2026-09-06 12:26,2026-09-06 19:51,Application Support,Medium,A. Patel,Resolved
+TICK-1015,2026-08-21 22:32,2026-08-22 01:35,Account/Access,Low,W. Thurkle,Resolved
+TICK-1016,2026-08-19 14:18,2026-08-19 19:32,Application Support,Medium,M. Chen,Resolved
+TICK-1017,2026-08-31 05:20,2026-08-31 23:11,Network Connectivity,Low,A. Patel,Resolved
+TICK-1018,2026-09-07 03:27,2026-09-07 05:31,Hardware Fault,Low,A. Patel,Resolved
+TICK-1019,2026-09-13 10:02,2026-09-14 01:47,Account/Access,Low,J. Smith,Resolved
+TICK-1020,2026-08-19 20:19,2026-08-19 23:44,Account/Access,High,W. Thurkle,Resolved
+TICK-1021,2026-09-02 02:47,2026-09-03 02:27,Hardware Fault,Low,A. Patel,Resolved
+TICK-1022,2026-08-22 05:28,2026-08-22 23:34,Account/Access,Low,W. Thurkle,Resolved
+TICK-1023,2026-09-13 12:08,2026-09-13 23:33,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1024,2026-08-23 06:13,2026-08-23 20:05,Account/Access,Low,J. Smith,Resolved
+TICK-1025,2026-09-05 11:58,2026-09-06 09:45,Application Support,Low,M. Chen,Resolved
+TICK-1026,2026-08-18 16:01,2026-08-18 19:33,Account/Access,Medium,J. Smith,Resolved
+TICK-1027,2026-08-15 10:54,2026-08-15 13:36,Hardware Fault,Low,A. Patel,Resolved
+TICK-1028,2026-08-17 04:03,2026-08-17 08:58,Application Support,Low,M. Chen,Resolved
+TICK-1029,2026-08-22 10:20,2026-08-23 02:50,Account/Access,Low,A. Patel,Resolved
+TICK-1030,2026-08-27 20:18,2026-08-28 08:07,Application Support,Medium,W. Thurkle,Resolved
+TICK-1031,2026-08-17 01:35,2026-08-17 07:47,Network Connectivity,Low,M. Chen,Resolved
+TICK-1032,2026-08-19 05:25,2026-08-19 06:20,Account/Access,High,W. Thurkle,Resolved
+TICK-1033,2026-08-16 21:04,2026-08-16 23:52,Network Connectivity,Critical,J. Smith,Resolved
+TICK-1034,2026-08-20 03:15,2026-08-20 04:54,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1035,2026-08-15 04:07,2026-08-15 06:11,Printer/Device,High,M. Chen,Resolved
+TICK-1036,2026-08-19 17:04,2026-08-20 00:02,Printer/Device,Medium,A. Patel,Resolved
+TICK-1037,2026-08-16 21:39,2026-08-16 23:01,Account/Access,High,W. Thurkle,Resolved
+TICK-1038,2026-09-09 12:18,2026-09-09 15:01,Hardware Fault,High,J. Smith,Resolved
+TICK-1039,2026-09-01 07:52,2026-09-01 15:05,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1040,2026-09-12 01:41,2026-09-12 12:23,Application Support,Low,A. Patel,Resolved
+TICK-1041,2026-08-29 01:09,2026-08-29 16:49,Printer/Device,Low,W. Thurkle,Resolved
+TICK-1042,2026-08-17 05:32,2026-08-17 10:53,Hardware Fault,High,J. Smith,Resolved
+TICK-1043,2026-08-26 02:17,2026-08-26 10:01,Network Connectivity,Medium,W. Thurkle,Resolved
+TICK-1044,2026-09-04 05:04,2026-09-05 02:23,Printer/Device,Low,A. Patel,Resolved
+TICK-1045,2026-08-18 10:50,2026-08-19 02:08,Account/Access,Low,A. Patel,Resolved
+TICK-1046,2026-08-21 07:35,2026-08-21 18:33,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1047,2026-08-17 21:21,2026-08-18 16:18,Hardware Fault,Low,A. Patel,Resolved
+TICK-1048,2026-08-19 23:25,2026-08-20 01:38,Application Support,Medium,J. Smith,Resolved
+TICK-1049,2026-08-31 15:49,2026-08-31 20:38,Application Support,Low,A. Patel,Resolved
+TICK-1050,2026-08-26 06:32,2026-08-26 16:24,Printer/Device,Low,J. Smith,Resolved
+TICK-1051,2026-09-04 02:23,2026-09-04 08:14,Account/Access,High,J. Smith,Resolved
+TICK-1052,2026-09-11 19:34,2026-09-11 21:03,Hardware Fault,High,M. Chen,Resolved
+TICK-1053,2026-08-15 23:52,2026-08-16 04:47,Account/Access,High,J. Smith,Resolved
+TICK-1054,2026-08-23 06:38,2026-08-23 11:51,Hardware Fault,High,J. Smith,Resolved
+TICK-1055,2026-08-21 07:32,2026-08-21 12:49,Account/Access,High,J. Smith,Resolved
+TICK-1056,2026-08-15 17:37,2026-08-15 23:26,Account/Access,High,A. Patel,Resolved
+TICK-1057,2026-08-25 16:34,2026-08-25 18:54,Application Support,High,W. Thurkle,Resolved
+TICK-1058,2026-08-18 19:24,2026-08-18 20:23,Hardware Fault,Critical,W. Thurkle,Resolved
+TICK-1059,2026-09-01 23:38,2026-09-02 11:28,Application Support,Medium,W. Thurkle,Resolved
+TICK-1060,2026-08-26 17:46,2026-08-26 18:47,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1061,2026-08-25 21:35,2026-08-26 06:30,Application Support,Low,W. Thurkle,Resolved
+TICK-1062,2026-09-05 15:53,2026-09-05 21:18,Account/Access,Medium,A. Patel,Resolved
+TICK-1063,2026-08-31 15:45,2026-09-01 10:12,Application Support,Low,J. Smith,Resolved
+TICK-1064,2026-09-02 12:50,2026-09-02 21:09,Account/Access,Low,M. Chen,Resolved
+TICK-1065,2026-09-07 18:28,2026-09-08 02:54,Account/Access,Medium,M. Chen,Resolved
+TICK-1066,2026-09-08 03:44,2026-09-08 07:52,Application Support,Medium,A. Patel,Resolved
+TICK-1067,2026-08-18 03:25,2026-08-18 23:09,Hardware Fault,Low,J. Smith,Resolved
+TICK-1068,2026-08-15 18:41,2026-08-15 19:35,Account/Access,High,M. Chen,Resolved
+TICK-1069,2026-09-10 18:26,2026-09-11 05:13,Application Support,Low,J. Smith,Resolved
+TICK-1070,2026-09-03 15:04,2026-09-03 16:09,Application Support,High,M. Chen,Resolved
+TICK-1071,2026-08-21 20:16,2026-08-22 03:23,Application Support,Medium,W. Thurkle,Resolved
+TICK-1072,2026-08-28 23:19,2026-08-29 01:12,Application Support,Critical,M. Chen,Resolved
+TICK-1073,2026-09-02 14:57,2026-09-02 18:28,Account/Access,High,J. Smith,Resolved
+TICK-1074,2026-09-06 10:50,2026-09-07 02:52,Hardware Fault,Low,M. Chen,Resolved
+TICK-1075,2026-09-02 20:39,2026-09-03 04:38,Hardware Fault,Low,A. Patel,Resolved
+TICK-1076,2026-09-10 18:26,2026-09-10 23:48,Hardware Fault,Low,J. Smith,Resolved
+TICK-1077,2026-08-17 00:58,2026-08-17 04:15,Account/Access,Medium,M. Chen,Resolved
+TICK-1078,2026-08-26 22:46,2026-08-27 20:09,Printer/Device,Low,M. Chen,Resolved
+TICK-1079,2026-08-29 15:30,2026-08-30 13:07,Hardware Fault,Low,M. Chen,Resolved
+TICK-1080,2026-08-31 09:31,2026-08-31 12:42,Application Support,High,A. Patel,Resolved
+TICK-1081,2026-08-28 00:45,2026-08-28 06:12,Account/Access,Medium,J. Smith,Resolved
+TICK-1082,2026-09-09 13:01,2026-09-09 23:59,Printer/Device,Medium,W. Thurkle,Resolved
+TICK-1083,2026-08-17 15:23,2026-08-17 23:06,Network Connectivity,Low,A. Patel,Resolved
+TICK-1084,2026-08-21 10:19,2026-08-22 04:52,Application Support,Low,M. Chen,Resolved
+TICK-1085,2026-08-22 13:06,2026-08-23 01:06,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1086,2026-08-21 16:47,2026-08-21 19:28,Printer/Device,Low,J. Smith,Resolved
+TICK-1087,2026-08-20 22:24,2026-08-21 15:07,Hardware Fault,Low,J. Smith,Resolved
+TICK-1088,2026-08-29 00:02,2026-08-29 11:38,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1089,2026-09-07 08:18,2026-09-07 19:31,Account/Access,Medium,M. Chen,Resolved
+TICK-1090,2026-08-27 03:24,2026-08-27 11:18,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1091,2026-09-04 23:39,2026-09-05 04:32,Application Support,High,W. Thurkle,Resolved
+TICK-1092,2026-08-25 12:55,2026-08-25 17:41,Account/Access,Medium,M. Chen,Resolved
+TICK-1093,2026-09-08 15:47,2026-09-09 01:54,Printer/Device,Medium,J. Smith,Resolved
+TICK-1094,2026-08-28 07:32,2026-08-29 03:19,Printer/Device,Low,M. Chen,Resolved
+TICK-1095,2026-08-29 05:37,2026-08-29 13:01,Application Support,Low,W. Thurkle,Resolved
+TICK-1096,2026-08-23 11:59,2026-08-23 20:20,Application Support,Medium,A. Patel,Resolved
+TICK-1097,2026-08-16 03:50,2026-08-16 23:23,Hardware Fault,Low,A. Patel,Resolved
+TICK-1098,2026-08-23 13:58,2026-08-23 20:39,Network Connectivity,Medium,J. Smith,Resolved
+TICK-1099,2026-08-17 19:30,2026-08-17 23:48,Account/Access,High,M. Chen,Resolved
+TICK-1100,2026-08-28 09:31,2026-08-28 13:11,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1101,2026-08-29 08:43,2026-08-29 13:21,Account/Access,Medium,M. Chen,Resolved
+TICK-1102,2026-08-23 04:14,2026-08-23 08:51,Hardware Fault,Low,J. Smith,Resolved
+TICK-1103,2026-08-20 23:57,2026-08-21 09:19,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1104,2026-09-13 16:57,2026-09-14 01:36,Hardware Fault,Low,J. Smith,Resolved
+TICK-1105,2026-08-23 13:54,2026-08-23 16:17,Account/Access,Medium,M. Chen,Resolved
+TICK-1106,2026-08-18 00:38,2026-08-18 05:23,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1107,2026-08-22 21:03,2026-08-23 09:52,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1108,2026-08-19 20:00,2026-08-20 03:28,Printer/Device,Low,M. Chen,Resolved
+TICK-1109,2026-09-02 11:07,2026-09-02 17:04,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1110,2026-08-24 02:38,2026-08-24 04:18,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1111,2026-09-12 11:00,2026-09-12 13:43,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1112,2026-08-31 13:39,2026-08-31 19:49,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1113,2026-08-22 04:23,2026-08-22 12:57,Application Support,Medium,A. Patel,Resolved
+TICK-1114,2026-09-07 20:08,2026-09-07 22:59,Application Support,High,J. Smith,Resolved
+TICK-1115,2026-09-03 18:02,2026-09-03 23:41,Network Connectivity,Low,A. Patel,Resolved
+TICK-1116,2026-09-02 03:20,2026-09-02 09:29,Printer/Device,Medium,A. Patel,Resolved
+TICK-1117,2026-09-05 07:53,2026-09-05 09:46,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1118,2026-09-10 22:23,2026-09-11 05:25,Application Support,Low,W. Thurkle,Resolved
+TICK-1119,2026-09-14 05:04,2026-09-14 23:42,Hardware Fault,Low,M. Chen,Resolved
+TICK-1120,2026-08-30 16:44,2026-08-30 18:11,Hardware Fault,Critical,M. Chen,Resolved
+TICK-1121,2026-09-13 05:04,2026-09-13 09:22,Account/Access,Low,J. Smith,Resolved
+TICK-1122,2026-08-25 03:03,2026-08-25 08:01,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1123,2026-08-28 17:16,2026-08-28 18:38,Account/Access,Critical,W. Thurkle,Resolved
+TICK-1124,2026-09-03 21:36,2026-09-04 07:33,Account/Access,Low,M. Chen,Resolved
+TICK-1125,2026-09-03 00:33,2026-09-03 11:45,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1126,2026-09-10 13:43,2026-09-10 23:30,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1127,2026-08-24 06:32,2026-08-25 03:02,Account/Access,Low,W. Thurkle,Resolved
+TICK-1128,2026-08-28 20:04,2026-08-29 04:57,Network Connectivity,Medium,A. Patel,Resolved
+TICK-1129,2026-08-27 14:38,2026-08-27 17:13,Account/Access,Medium,J. Smith,Resolved
+TICK-1130,2026-09-11 19:29,2026-09-11 21:30,Network Connectivity,High,M. Chen,Resolved
+TICK-1131,2026-08-25 11:14,2026-08-26 05:13,Hardware Fault,Low,M. Chen,Resolved
+TICK-1132,2026-09-10 02:06,2026-09-10 20:53,Account/Access,Low,M. Chen,Resolved
+TICK-1133,2026-08-28 17:43,2026-08-29 01:00,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1134,2026-09-09 19:05,2026-09-10 06:08,Account/Access,Medium,M. Chen,Resolved
+TICK-1135,2026-08-26 19:16,2026-08-26 20:53,Network Connectivity,Critical,W. Thurkle,Resolved
+TICK-1136,2026-08-19 03:12,2026-08-19 23:48,Account/Access,Low,W. Thurkle,Resolved
+TICK-1137,2026-08-30 21:54,2026-08-31 06:07,Application Support,Medium,J. Smith,Resolved
+TICK-1138,2026-08-17 12:21,2026-08-17 17:43,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1139,2026-09-09 20:27,2026-09-10 05:25,Network Connectivity,Low,M. Chen,Resolved
+TICK-1140,2026-09-10 03:08,2026-09-10 14:15,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1141,2026-09-06 12:40,2026-09-06 23:16,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1142,2026-08-20 01:26,2026-08-20 04:40,Hardware Fault,Low,A. Patel,Resolved
+TICK-1143,2026-08-26 06:00,2026-08-26 15:43,Account/Access,Medium,J. Smith,Resolved
+TICK-1144,2026-08-20 10:48,2026-08-20 17:16,Account/Access,Medium,J. Smith,Resolved
+TICK-1145,2026-08-22 04:12,2026-08-22 15:06,Account/Access,Medium,M. Chen,Resolved
+TICK-1146,2026-09-11 06:18,2026-09-11 11:06,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1147,2026-09-03 06:56,2026-09-03 08:32,Hardware Fault,High,M. Chen,Resolved
+TICK-1148,2026-09-09 14:07,2026-09-09 22:38,Account/Access,Low,A. Patel,Resolved
+TICK-1149,2026-08-15 22:45,2026-08-16 19:47,Account/Access,Low,W. Thurkle,Resolved
+TICK-1150,2026-09-11 13:45,2026-09-11 18:31,Network Connectivity,High,J. Smith,Resolved
+TICK-1151,2026-09-02 07:16,2026-09-02 15:43,Application Support,Medium,J. Smith,Resolved
+TICK-1152,2026-09-03 04:01,2026-09-03 15:43,Application Support,Low,A. Patel,Resolved
+TICK-1153,2026-09-05 22:51,2026-09-06 01:47,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1154,2026-09-07 21:42,2026-09-08 01:42,Account/Access,Medium,J. Smith,Resolved
+TICK-1155,2026-08-22 23:55,2026-08-23 04:31,Account/Access,High,A. Patel,Resolved
+TICK-1156,2026-09-08 06:23,2026-09-08 08:07,Hardware Fault,High,M. Chen,Resolved
+TICK-1157,2026-09-13 07:08,2026-09-13 07:43,Account/Access,High,W. Thurkle,Resolved
+TICK-1158,2026-08-28 20:50,2026-08-29 06:52,Application Support,Medium,A. Patel,Resolved
+TICK-1159,2026-08-18 07:00,2026-08-18 10:35,Hardware Fault,High,J. Smith,Resolved
+TICK-1160,2026-09-03 15:19,2026-09-03 23:27,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1161,2026-08-19 12:45,2026-08-19 14:49,Account/Access,Medium,J. Smith,Resolved
+TICK-1162,2026-08-26 18:11,2026-08-27 01:08,Printer/Device,Medium,J. Smith,Resolved
+TICK-1163,2026-09-10 18:42,2026-09-11 06:02,Network Connectivity,Medium,A. Patel,Resolved
+TICK-1164,2026-08-16 01:55,2026-08-16 04:31,Account/Access,Critical,W. Thurkle,Resolved
+TICK-1165,2026-09-13 12:36,2026-09-13 14:16,Network Connectivity,Medium,A. Patel,Resolved
+TICK-1166,2026-08-20 16:32,2026-08-21 00:50,Network Connectivity,Medium,W. Thurkle,Resolved
+TICK-1167,2026-08-16 14:24,2026-08-16 16:02,Printer/Device,High,J. Smith,Resolved
+TICK-1168,2026-09-01 20:59,2026-09-02 01:49,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1169,2026-08-23 16:08,2026-08-24 01:55,Printer/Device,Medium,W. Thurkle,Resolved
+TICK-1170,2026-09-03 18:52,2026-09-03 20:41,Hardware Fault,High,A. Patel,Resolved
+TICK-1171,2026-08-15 12:40,2026-08-15 14:55,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1172,2026-08-29 13:20,2026-08-30 02:25,Account/Access,Low,W. Thurkle,Resolved
+TICK-1173,2026-09-06 03:21,2026-09-06 19:30,Application Support,Low,W. Thurkle,Resolved
+TICK-1174,2026-08-16 23:14,2026-08-17 05:38,Account/Access,Medium,M. Chen,Resolved
+TICK-1175,2026-08-17 04:22,2026-08-17 12:25,Application Support,Low,A. Patel,Resolved
+TICK-1176,2026-08-26 14:53,2026-08-26 20:37,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1177,2026-09-09 19:10,2026-09-09 22:32,Application Support,Medium,M. Chen,Resolved
+TICK-1178,2026-09-10 18:13,2026-09-11 12:16,Network Connectivity,Low,A. Patel,Resolved
+TICK-1179,2026-08-28 00:34,2026-08-28 22:53,Account/Access,Low,W. Thurkle,Resolved
+TICK-1180,2026-08-17 17:11,2026-08-17 22:17,Account/Access,Medium,J. Smith,Resolved
+TICK-1181,2026-08-31 21:06,2026-09-01 01:48,Account/Access,Low,A. Patel,Resolved
+TICK-1182,2026-09-10 13:04,2026-09-10 13:51,Account/Access,High,A. Patel,Resolved
+TICK-1183,2026-09-02 02:28,2026-09-02 18:55,Account/Access,Low,J. Smith,Resolved
+TICK-1184,2026-09-09 12:11,2026-09-09 20:19,Account/Access,Low,J. Smith,Resolved
+TICK-1185,2026-09-08 12:18,2026-09-08 16:11,Printer/Device,High,W. Thurkle,Resolved
+TICK-1186,2026-09-02 11:42,2026-09-02 19:43,Application Support,Low,A. Patel,Resolved
+TICK-1187,2026-09-11 17:40,2026-09-12 10:08,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1188,2026-08-19 11:08,2026-08-19 14:30,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1189,2026-08-28 14:51,2026-08-29 13:34,Account/Access,Low,W. Thurkle,Resolved
+TICK-1190,2026-09-10 12:13,2026-09-10 16:01,Application Support,Low,M. Chen,Resolved
+TICK-1191,2026-09-04 00:06,2026-09-04 18:43,Account/Access,Low,W. Thurkle,Resolved
+TICK-1192,2026-08-25 08:17,2026-08-25 15:05,Application Support,Medium,A. Patel,Resolved
+TICK-1193,2026-08-16 11:18,2026-08-16 19:56,Application Support,Low,J. Smith,Resolved
+TICK-1194,2026-09-07 06:47,2026-09-07 19:44,Hardware Fault,Low,M. Chen,Resolved
+TICK-1195,2026-08-20 08:57,2026-08-20 19:07,Application Support,Medium,A. Patel,Resolved
+TICK-1196,2026-08-17 11:10,2026-08-18 09:26,Hardware Fault,Low,A. Patel,Resolved
+TICK-1197,2026-09-01 10:56,2026-09-01 13:12,Application Support,Medium,W. Thurkle,Resolved
+TICK-1198,2026-09-13 00:02,2026-09-13 08:37,Printer/Device,Medium,A. Patel,Resolved
+TICK-1199,2026-08-17 22:33,2026-08-18 05:19,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1200,2026-09-10 08:53,2026-09-10 09:48,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1201,2026-08-30 22:38,2026-08-31 21:42,Application Support,Low,J. Smith,Resolved
+TICK-1202,2026-08-22 02:14,2026-08-22 11:36,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1203,2026-08-20 13:56,2026-08-20 18:36,Account/Access,High,M. Chen,Resolved
+TICK-1204,2026-09-04 17:53,2026-09-04 19:02,Application Support,Critical,A. Patel,Resolved
+TICK-1205,2026-08-19 12:01,2026-08-19 20:04,Account/Access,Low,W. Thurkle,Resolved
+TICK-1206,2026-08-25 12:48,2026-08-25 22:54,Account/Access,Low,A. Patel,Resolved
+TICK-1207,2026-08-17 14:32,2026-08-17 21:07,Network Connectivity,Medium,M. Chen,Resolved
+TICK-1208,2026-09-01 18:02,2026-09-02 16:02,Application Support,Low,J. Smith,Resolved
+TICK-1209,2026-08-24 18:54,2026-08-24 23:11,Hardware Fault,Low,A. Patel,Resolved
+TICK-1210,2026-09-13 10:49,2026-09-14 04:23,Application Support,Low,M. Chen,Resolved
+TICK-1211,2026-08-30 22:05,2026-08-31 00:43,Account/Access,High,A. Patel,Resolved
+TICK-1212,2026-09-04 07:59,2026-09-04 17:14,Application Support,Low,M. Chen,Resolved
+TICK-1213,2026-08-23 18:29,2026-08-23 23:47,Application Support,High,A. Patel,Resolved
+TICK-1214,2026-08-17 15:58,2026-08-18 08:24,Network Connectivity,Low,M. Chen,Resolved
+TICK-1215,2026-08-19 02:35,2026-08-19 10:40,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1216,2026-09-08 14:51,2026-09-08 23:23,Network Connectivity,Medium,W. Thurkle,Resolved
+TICK-1217,2026-09-03 12:01,2026-09-03 17:59,Account/Access,Low,J. Smith,Resolved
+TICK-1218,2026-08-25 12:22,2026-08-25 13:02,Hardware Fault,Critical,A. Patel,Resolved
+TICK-1219,2026-09-09 07:39,2026-09-09 13:01,Application Support,High,W. Thurkle,Resolved
+TICK-1220,2026-09-04 04:00,2026-09-04 06:42,Application Support,Medium,J. Smith,Resolved
+TICK-1221,2026-09-09 04:56,2026-09-09 16:34,Network Connectivity,Low,M. Chen,Resolved
+TICK-1222,2026-08-26 04:09,2026-08-26 13:25,Printer/Device,Medium,M. Chen,Resolved
+TICK-1223,2026-08-22 01:32,2026-08-22 07:00,Printer/Device,High,J. Smith,Resolved
+TICK-1224,2026-08-26 08:58,2026-08-26 13:04,Printer/Device,Medium,M. Chen,Resolved
+TICK-1225,2026-08-30 04:56,2026-08-30 20:14,Hardware Fault,Low,A. Patel,Resolved
+TICK-1226,2026-08-16 17:02,2026-08-16 21:26,Account/Access,High,W. Thurkle,Resolved
+TICK-1227,2026-08-23 19:32,2026-08-23 20:50,Hardware Fault,High,M. Chen,Resolved
+TICK-1228,2026-08-18 01:47,2026-08-18 07:25,Network Connectivity,High,M. Chen,Resolved
+TICK-1229,2026-08-16 18:01,2026-08-16 19:18,Hardware Fault,Critical,W. Thurkle,Resolved
+TICK-1230,2026-08-24 13:06,2026-08-24 18:19,Application Support,Low,W. Thurkle,Resolved
+TICK-1231,2026-08-23 21:30,2026-08-24 15:01,Application Support,Low,M. Chen,Resolved
+TICK-1232,2026-09-02 18:46,2026-09-03 00:03,Hardware Fault,Low,M. Chen,Resolved
+TICK-1233,2026-08-18 09:35,2026-08-18 20:49,Account/Access,Low,M. Chen,Resolved
+TICK-1234,2026-08-17 04:14,2026-08-17 12:12,Account/Access,Medium,J. Smith,Resolved
+TICK-1235,2026-09-05 14:55,2026-09-06 05:28,Hardware Fault,Low,J. Smith,Resolved
+TICK-1236,2026-09-03 21:51,2026-09-04 11:26,Printer/Device,Low,W. Thurkle,Resolved
+TICK-1237,2026-08-26 20:29,2026-08-26 21:26,Application Support,Critical,W. Thurkle,Resolved
+TICK-1238,2026-08-25 16:26,2026-08-25 18:35,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1239,2026-08-19 02:14,2026-08-19 12:22,Account/Access,Medium,M. Chen,Resolved
+TICK-1240,2026-09-13 13:38,2026-09-14 07:23,Hardware Fault,Low,M. Chen,Resolved
+TICK-1241,2026-08-16 03:18,2026-08-16 05:32,Application Support,High,A. Patel,Resolved
+TICK-1242,2026-08-30 19:37,2026-08-31 14:12,Account/Access,Low,J. Smith,Resolved
+TICK-1243,2026-08-23 21:16,2026-08-24 01:17,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1244,2026-08-28 05:15,2026-08-28 06:26,Account/Access,Critical,J. Smith,Resolved
+TICK-1245,2026-08-30 00:54,2026-08-30 10:42,Printer/Device,Medium,M. Chen,Resolved
+TICK-1246,2026-08-17 13:30,2026-08-17 18:02,Network Connectivity,Medium,W. Thurkle,Resolved
+TICK-1247,2026-08-24 21:43,2026-08-25 00:33,Account/Access,Medium,M. Chen,Resolved
+TICK-1248,2026-08-25 12:11,2026-08-26 12:09,Network Connectivity,Low,A. Patel,Resolved
+TICK-1249,2026-09-03 10:59,2026-09-03 16:27,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1250,2026-09-12 14:05,2026-09-12 14:47,Application Support,High,W. Thurkle,Resolved
+TICK-1251,2026-08-22 07:01,2026-08-22 07:42,Account/Access,High,J. Smith,Resolved
+TICK-1252,2026-09-04 17:04,2026-09-04 20:43,Account/Access,High,A. Patel,Resolved
+TICK-1253,2026-08-27 03:44,2026-08-27 21:55,Hardware Fault,Low,M. Chen,Resolved
+TICK-1254,2026-08-30 20:34,2026-08-31 00:56,Hardware Fault,High,J. Smith,Resolved
+TICK-1255,2026-09-13 22:53,2026-09-14 01:14,Network Connectivity,Medium,W. Thurkle,Resolved
+TICK-1256,2026-08-28 21:07,2026-08-29 14:07,Account/Access,Low,A. Patel,Resolved
+TICK-1257,2026-09-04 06:36,2026-09-04 15:11,Account/Access,Low,J. Smith,Resolved
+TICK-1258,2026-09-05 16:26,2026-09-05 19:44,Application Support,High,W. Thurkle,Resolved
+TICK-1259,2026-09-13 19:52,2026-09-14 00:50,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1260,2026-08-29 09:01,2026-08-29 09:53,Hardware Fault,High,M. Chen,Resolved
+TICK-1261,2026-09-14 05:33,2026-09-14 10:35,Account/Access,High,W. Thurkle,Resolved
+TICK-1262,2026-08-18 20:03,2026-08-19 02:45,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1263,2026-09-10 14:35,2026-09-11 13:51,Application Support,Low,M. Chen,Resolved
+TICK-1264,2026-08-30 09:24,2026-08-30 13:44,Network Connectivity,Medium,J. Smith,Resolved
+TICK-1265,2026-08-24 22:04,2026-08-25 03:29,Account/Access,High,W. Thurkle,Resolved
+TICK-1266,2026-08-22 17:26,2026-08-23 02:06,Account/Access,Low,W. Thurkle,Resolved
+TICK-1267,2026-08-30 02:11,2026-08-30 18:41,Printer/Device,Low,A. Patel,Resolved
+TICK-1268,2026-09-09 10:55,2026-09-09 13:55,Network Connectivity,Low,A. Patel,Resolved
+TICK-1269,2026-09-03 19:08,2026-09-04 01:37,Account/Access,Medium,A. Patel,Resolved
+TICK-1270,2026-09-03 07:51,2026-09-03 10:35,Hardware Fault,High,M. Chen,Resolved
+TICK-1271,2026-08-17 03:48,2026-08-17 07:02,Account/Access,Medium,J. Smith,Resolved
+TICK-1272,2026-08-24 14:54,2026-08-24 20:46,Application Support,High,J. Smith,Resolved
+TICK-1273,2026-09-06 23:29,2026-09-07 04:11,Hardware Fault,Low,M. Chen,Resolved
+TICK-1274,2026-08-22 10:07,2026-08-23 01:40,Hardware Fault,Low,J. Smith,Resolved
+TICK-1275,2026-09-13 04:49,2026-09-13 09:17,Network Connectivity,High,J. Smith,Resolved
+TICK-1276,2026-09-07 01:05,2026-09-07 05:29,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1277,2026-08-17 19:25,2026-08-18 10:15,Account/Access,Low,W. Thurkle,Resolved
+TICK-1278,2026-08-16 15:59,2026-08-16 22:10,Network Connectivity,Medium,W. Thurkle,Resolved
+TICK-1279,2026-09-09 12:56,2026-09-09 22:20,Network Connectivity,Medium,A. Patel,Resolved
+TICK-1280,2026-08-16 07:44,2026-08-16 16:05,Account/Access,Low,M. Chen,Resolved
+TICK-1281,2026-08-30 09:22,2026-08-30 11:29,Hardware Fault,Critical,W. Thurkle,Resolved
+TICK-1282,2026-08-18 20:15,2026-08-18 22:02,Account/Access,Critical,A. Patel,Resolved
+TICK-1283,2026-09-06 16:13,2026-09-06 17:43,Account/Access,Medium,J. Smith,Resolved
+TICK-1284,2026-09-05 16:29,2026-09-06 14:08,Account/Access,Low,J. Smith,Resolved
+TICK-1285,2026-08-25 00:55,2026-08-25 03:12,Hardware Fault,Critical,A. Patel,Resolved
+TICK-1286,2026-09-01 23:12,2026-09-02 06:24,Account/Access,Medium,M. Chen,Resolved
+TICK-1287,2026-09-08 13:40,2026-09-08 15:32,Application Support,Critical,W. Thurkle,Resolved
+TICK-1288,2026-09-01 23:05,2026-09-02 00:55,Application Support,Critical,J. Smith,Resolved
+TICK-1289,2026-09-05 19:54,2026-09-06 03:43,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1290,2026-08-19 15:51,2026-08-19 16:58,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1291,2026-08-28 08:23,2026-08-28 21:26,Account/Access,Low,M. Chen,Resolved
+TICK-1292,2026-09-10 10:26,2026-09-10 17:00,Hardware Fault,Low,A. Patel,Resolved
+TICK-1293,2026-09-14 02:05,2026-09-14 03:36,Account/Access,Critical,A. Patel,Resolved
+TICK-1294,2026-08-31 14:44,2026-09-01 00:34,Network Connectivity,Medium,A. Patel,Resolved
+TICK-1295,2026-09-02 07:50,2026-09-02 11:18,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1296,2026-09-07 08:57,2026-09-07 15:13,Application Support,Medium,A. Patel,Resolved
+TICK-1297,2026-08-23 19:36,2026-08-23 22:16,Account/Access,High,A. Patel,Resolved
+TICK-1298,2026-09-12 22:01,2026-09-13 15:44,Hardware Fault,Low,A. Patel,Resolved
+TICK-1299,2026-09-11 22:30,2026-09-12 18:43,Application Support,Low,A. Patel,Resolved
+TICK-1300,2026-09-12 05:23,2026-09-12 12:51,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1301,2026-08-16 20:15,2026-08-17 00:28,Hardware Fault,Low,A. Patel,Resolved
+TICK-1302,2026-09-05 12:09,2026-09-06 02:16,Application Support,Low,J. Smith,Resolved
+TICK-1303,2026-08-27 12:59,2026-08-27 16:10,Network Connectivity,Medium,A. Patel,Resolved
+TICK-1304,2026-08-24 20:21,2026-08-25 10:59,Network Connectivity,Low,W. Thurkle,Resolved
+TICK-1305,2026-09-11 09:56,2026-09-12 08:10,Network Connectivity,Low,M. Chen,Resolved
+TICK-1306,2026-09-07 15:51,2026-09-07 17:56,Application Support,High,W. Thurkle,Resolved
+TICK-1307,2026-08-15 11:00,2026-08-15 12:02,Hardware Fault,Critical,M. Chen,Resolved
+TICK-1308,2026-09-10 16:16,2026-09-11 12:03,Account/Access,Low,A. Patel,Resolved
+TICK-1309,2026-08-20 00:14,2026-08-20 18:27,Hardware Fault,Low,A. Patel,Resolved
+TICK-1310,2026-09-01 07:02,2026-09-01 12:28,Hardware Fault,High,M. Chen,Resolved
+TICK-1311,2026-08-30 10:31,2026-08-30 15:37,Application Support,Low,A. Patel,Resolved
+TICK-1312,2026-09-12 00:31,2026-09-12 04:27,Account/Access,Medium,A. Patel,Resolved
+TICK-1313,2026-08-24 07:17,2026-08-24 15:54,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1314,2026-09-04 04:07,2026-09-04 15:16,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1315,2026-09-04 22:03,2026-09-05 04:54,Printer/Device,Low,J. Smith,Resolved
+TICK-1316,2026-08-29 11:30,2026-08-30 04:56,Printer/Device,Low,M. Chen,Resolved
+TICK-1317,2026-09-06 23:58,2026-09-07 04:12,Network Connectivity,High,W. Thurkle,Resolved
+TICK-1318,2026-08-30 22:18,2026-08-30 23:25,Account/Access,High,J. Smith,Resolved
+TICK-1319,2026-09-01 04:30,2026-09-01 06:46,Account/Access,Medium,J. Smith,Resolved
+TICK-1320,2026-09-05 15:43,2026-09-05 17:20,Network Connectivity,Medium,J. Smith,Resolved
+TICK-1321,2026-08-30 12:46,2026-08-30 22:38,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1322,2026-08-27 03:54,2026-08-27 05:24,Application Support,Medium,A. Patel,Resolved
+TICK-1323,2026-09-05 04:20,2026-09-05 10:16,Hardware Fault,High,M. Chen,Resolved
+TICK-1324,2026-08-16 01:35,2026-08-16 07:28,Application Support,High,M. Chen,Resolved
+TICK-1325,2026-08-26 13:11,2026-08-26 15:45,Account/Access,High,W. Thurkle,Resolved
+TICK-1326,2026-09-04 16:50,2026-09-04 21:40,Account/Access,Medium,J. Smith,Resolved
+TICK-1327,2026-09-13 21:26,2026-09-13 23:59,Hardware Fault,Critical,W. Thurkle,Resolved
+TICK-1328,2026-09-13 11:48,2026-09-13 16:58,Application Support,Medium,J. Smith,Resolved
+TICK-1329,2026-08-22 12:19,2026-08-22 16:49,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1330,2026-08-16 04:27,2026-08-16 09:50,Application Support,High,J. Smith,Resolved
+TICK-1331,2026-08-21 04:02,2026-08-21 12:47,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1332,2026-08-22 07:18,2026-08-22 16:36,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1333,2026-08-19 13:29,2026-08-19 17:09,Hardware Fault,High,A. Patel,Resolved
+TICK-1334,2026-08-22 09:59,2026-08-22 15:32,Printer/Device,Medium,A. Patel,Resolved
+TICK-1335,2026-08-17 04:02,2026-08-17 07:58,Network Connectivity,High,M. Chen,Resolved
+TICK-1336,2026-08-31 15:20,2026-08-31 20:32,Account/Access,Medium,A. Patel,Resolved
+TICK-1337,2026-09-05 00:05,2026-09-05 13:55,Hardware Fault,Low,J. Smith,Resolved
+TICK-1338,2026-09-09 13:11,2026-09-09 18:43,Application Support,High,M. Chen,Resolved
+TICK-1339,2026-09-13 05:02,2026-09-13 11:30,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1340,2026-09-11 23:08,2026-09-12 02:13,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1341,2026-08-26 12:16,2026-08-27 07:58,Hardware Fault,Low,J. Smith,Resolved
+TICK-1342,2026-08-29 16:31,2026-08-29 16:48,Account/Access,Critical,J. Smith,Resolved
+TICK-1343,2026-09-12 20:31,2026-09-13 00:11,Printer/Device,Medium,J. Smith,Resolved
+TICK-1344,2026-08-26 22:37,2026-08-27 10:53,Account/Access,Low,A. Patel,Resolved
+TICK-1345,2026-08-24 08:19,2026-08-24 18:09,Network Connectivity,Medium,M. Chen,Resolved
+TICK-1346,2026-09-06 22:14,2026-09-07 01:14,Hardware Fault,Low,J. Smith,Resolved
+TICK-1347,2026-09-06 04:31,2026-09-06 13:26,Account/Access,Medium,A. Patel,Resolved
+TICK-1348,2026-08-19 15:41,2026-08-19 18:56,Account/Access,High,A. Patel,Resolved
+TICK-1349,2026-08-23 00:09,2026-08-23 06:32,Printer/Device,Medium,J. Smith,Resolved
+TICK-1350,2026-09-06 01:46,2026-09-06 04:48,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1351,2026-08-31 00:17,2026-08-31 01:03,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1352,2026-08-27 16:00,2026-08-27 17:06,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1353,2026-08-26 09:32,2026-08-26 15:51,Application Support,Medium,M. Chen,Resolved
+TICK-1354,2026-08-15 15:18,2026-08-16 09:11,Account/Access,Low,A. Patel,Resolved
+TICK-1355,2026-08-15 19:08,2026-08-16 00:38,Application Support,High,W. Thurkle,Resolved
+TICK-1356,2026-09-11 16:53,2026-09-11 20:40,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1357,2026-08-23 03:06,2026-08-23 10:19,Account/Access,Medium,J. Smith,Resolved
+TICK-1358,2026-08-24 06:55,2026-08-24 08:57,Hardware Fault,Critical,W. Thurkle,Resolved
+TICK-1359,2026-08-17 21:46,2026-08-17 23:58,Account/Access,Low,J. Smith,Resolved
+TICK-1360,2026-08-17 18:38,2026-08-18 18:08,Application Support,Low,W. Thurkle,Resolved
+TICK-1361,2026-09-11 04:06,2026-09-11 08:24,Hardware Fault,High,M. Chen,Resolved
+TICK-1362,2026-08-23 11:05,2026-08-24 01:02,Application Support,Low,W. Thurkle,Resolved
+TICK-1363,2026-08-20 16:18,2026-08-20 21:28,Hardware Fault,Low,M. Chen,Resolved
+TICK-1364,2026-09-11 22:26,2026-09-12 08:47,Account/Access,Medium,A. Patel,Resolved
+TICK-1365,2026-08-26 18:25,2026-08-26 20:17,Application Support,Medium,A. Patel,Resolved
+TICK-1366,2026-08-16 17:41,2026-08-17 12:36,Network Connectivity,Low,M. Chen,Resolved
+TICK-1367,2026-09-13 03:32,2026-09-13 06:31,Application Support,High,J. Smith,Resolved
+TICK-1368,2026-08-26 00:15,2026-08-26 08:31,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1369,2026-09-07 05:34,2026-09-07 13:28,Hardware Fault,Low,M. Chen,Resolved
+TICK-1370,2026-09-05 13:24,2026-09-05 17:45,Application Support,Low,W. Thurkle,Resolved
+TICK-1371,2026-09-12 10:02,2026-09-12 13:57,Application Support,Low,M. Chen,Resolved
+TICK-1372,2026-08-28 15:22,2026-08-29 01:09,Account/Access,Low,W. Thurkle,Resolved
+TICK-1373,2026-09-02 04:17,2026-09-02 15:23,Network Connectivity,Low,W. Thurkle,Resolved
+TICK-1374,2026-09-05 22:08,2026-09-06 11:36,Printer/Device,Low,M. Chen,Resolved
+TICK-1375,2026-08-20 03:23,2026-08-20 09:04,Hardware Fault,Low,A. Patel,Resolved
+TICK-1376,2026-08-27 18:41,2026-08-28 02:07,Hardware Fault,Low,M. Chen,Resolved
+TICK-1377,2026-09-01 20:09,2026-09-02 19:01,Hardware Fault,Low,A. Patel,Resolved
+TICK-1378,2026-09-09 08:25,2026-09-09 14:09,Network Connectivity,Medium,J. Smith,Resolved
+TICK-1379,2026-08-24 05:00,2026-08-24 07:57,Application Support,Medium,M. Chen,Resolved
+TICK-1380,2026-09-13 03:03,2026-09-13 10:23,Application Support,Medium,J. Smith,Resolved
+TICK-1381,2026-08-24 20:06,2026-08-25 18:36,Application Support,Low,J. Smith,Resolved
+TICK-1382,2026-09-01 22:31,2026-09-02 10:00,Application Support,Medium,M. Chen,Resolved
+TICK-1383,2026-09-12 07:41,2026-09-12 08:34,Application Support,High,M. Chen,Resolved
+TICK-1384,2026-09-04 04:35,2026-09-04 09:59,Account/Access,Low,M. Chen,Resolved
+TICK-1385,2026-09-07 15:32,2026-09-07 20:56,Printer/Device,Medium,M. Chen,Resolved
+TICK-1386,2026-08-31 13:59,2026-08-31 17:26,Account/Access,High,W. Thurkle,Resolved
+TICK-1387,2026-08-18 07:53,2026-08-18 23:22,Application Support,Low,M. Chen,Resolved
+TICK-1388,2026-09-13 02:04,2026-09-13 06:14,Application Support,Low,J. Smith,Resolved
+TICK-1389,2026-08-30 11:32,2026-08-30 17:26,Application Support,Medium,M. Chen,Resolved
+TICK-1390,2026-08-29 02:51,2026-08-30 02:48,Application Support,Low,M. Chen,Resolved
+TICK-1391,2026-08-18 06:05,2026-08-19 04:47,Printer/Device,Low,J. Smith,Resolved
+TICK-1392,2026-08-25 12:53,2026-08-25 17:43,Application Support,Medium,W. Thurkle,Resolved
+TICK-1393,2026-08-28 09:06,2026-08-29 04:55,Account/Access,Low,W. Thurkle,Resolved
+TICK-1394,2026-08-15 18:21,2026-08-15 23:58,Hardware Fault,High,J. Smith,Resolved
+TICK-1395,2026-08-30 15:41,2026-08-30 21:46,Account/Access,Medium,M. Chen,Resolved
+TICK-1396,2026-09-02 21:57,2026-09-03 16:10,Application Support,Low,J. Smith,Resolved
+TICK-1397,2026-08-28 14:39,2026-08-28 22:46,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1398,2026-09-01 14:20,2026-09-01 20:40,Account/Access,Low,W. Thurkle,Resolved
+TICK-1399,2026-08-23 04:10,2026-08-23 11:44,Account/Access,Medium,M. Chen,Resolved
+TICK-1400,2026-09-01 16:46,2026-09-02 02:44,Network Connectivity,Medium,A. Patel,Resolved
+TICK-1401,2026-09-11 18:00,2026-09-12 01:15,Application Support,Low,W. Thurkle,Resolved
+TICK-1402,2026-08-20 17:23,2026-08-20 19:54,Account/Access,Medium,M. Chen,Resolved
+TICK-1403,2026-08-27 20:06,2026-08-28 01:44,Account/Access,High,J. Smith,Resolved
+TICK-1404,2026-08-31 19:05,2026-09-01 07:00,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1405,2026-09-10 07:21,2026-09-10 17:48,Account/Access,Low,M. Chen,Resolved
+TICK-1406,2026-08-27 10:09,2026-08-27 12:59,Application Support,Medium,W. Thurkle,Resolved
+TICK-1407,2026-09-07 21:54,2026-09-08 06:15,Hardware Fault,Low,M. Chen,Resolved
+TICK-1408,2026-09-01 05:39,2026-09-01 12:57,Account/Access,Medium,A. Patel,Resolved
+TICK-1409,2026-09-07 12:58,2026-09-07 13:42,Account/Access,High,M. Chen,Resolved
+TICK-1410,2026-08-31 17:55,2026-08-31 22:33,Hardware Fault,High,A. Patel,Resolved
+TICK-1411,2026-09-10 04:50,2026-09-10 05:49,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1412,2026-09-07 07:29,2026-09-07 12:20,Network Connectivity,Medium,M. Chen,Resolved
+TICK-1413,2026-08-19 23:33,2026-08-20 02:51,Hardware Fault,Low,A. Patel,Resolved
+TICK-1414,2026-08-31 03:52,2026-08-31 04:55,Hardware Fault,Critical,A. Patel,Resolved
+TICK-1415,2026-09-12 17:31,2026-09-12 18:46,Network Connectivity,High,M. Chen,Resolved
+TICK-1416,2026-09-11 22:05,2026-09-12 19:09,Network Connectivity,Low,J. Smith,Resolved
+TICK-1417,2026-08-19 11:10,2026-08-19 13:50,Hardware Fault,High,J. Smith,Resolved
+TICK-1418,2026-09-01 09:05,2026-09-01 17:03,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1419,2026-08-27 08:12,2026-08-27 11:12,Application Support,High,M. Chen,Resolved
+TICK-1420,2026-08-24 18:20,2026-08-25 03:22,Application Support,Medium,M. Chen,Resolved
+TICK-1421,2026-09-03 06:43,2026-09-03 09:24,Network Connectivity,High,M. Chen,Resolved
+TICK-1422,2026-09-08 21:29,2026-09-09 11:32,Account/Access,Low,J. Smith,Resolved
+TICK-1423,2026-09-01 03:08,2026-09-01 04:40,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1424,2026-09-03 01:52,2026-09-03 03:14,Hardware Fault,High,M. Chen,Resolved
+TICK-1425,2026-08-15 08:43,2026-08-15 11:10,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1426,2026-08-20 02:27,2026-08-20 06:12,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1427,2026-09-04 03:35,2026-09-04 12:34,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1428,2026-08-27 20:37,2026-08-28 00:20,Hardware Fault,Low,J. Smith,Resolved
+TICK-1429,2026-08-30 17:06,2026-08-30 21:45,Hardware Fault,Low,M. Chen,Resolved
+TICK-1430,2026-09-04 23:08,2026-09-05 18:52,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1431,2026-08-24 17:05,2026-08-24 21:43,Hardware Fault,High,J. Smith,Resolved
+TICK-1432,2026-09-03 11:22,2026-09-03 19:04,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1433,2026-08-28 10:45,2026-08-28 21:48,Application Support,Low,M. Chen,Resolved
+TICK-1434,2026-09-09 18:42,2026-09-09 22:26,Hardware Fault,High,M. Chen,Resolved
+TICK-1435,2026-08-25 16:03,2026-08-26 08:14,Application Support,Low,J. Smith,Resolved
+TICK-1436,2026-08-31 19:06,2026-08-31 23:24,Application Support,High,A. Patel,Resolved
+TICK-1437,2026-08-21 08:39,2026-08-22 00:51,Hardware Fault,Low,J. Smith,Resolved
+TICK-1438,2026-08-29 20:06,2026-08-30 02:55,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1439,2026-09-13 22:33,2026-09-14 02:10,Hardware Fault,High,A. Patel,Resolved
+TICK-1440,2026-08-31 09:45,2026-08-31 10:12,Account/Access,Critical,W. Thurkle,Resolved
+TICK-1441,2026-08-15 10:44,2026-08-15 13:26,Printer/Device,High,A. Patel,Resolved
+TICK-1442,2026-09-03 00:14,2026-09-03 02:08,Account/Access,Medium,J. Smith,Resolved
+TICK-1443,2026-08-23 09:32,2026-08-24 05:18,Account/Access,Low,A. Patel,Resolved
+TICK-1444,2026-08-26 22:19,2026-08-27 00:03,Network Connectivity,Medium,M. Chen,Resolved
+TICK-1445,2026-09-06 04:41,2026-09-06 16:15,Hardware Fault,Low,M. Chen,Resolved
+TICK-1446,2026-09-02 08:03,2026-09-02 10:59,Application Support,Medium,W. Thurkle,Resolved
+TICK-1447,2026-09-05 11:21,2026-09-05 13:03,Hardware Fault,Critical,A. Patel,Resolved
+TICK-1448,2026-08-20 00:08,2026-08-20 21:38,Application Support,Low,W. Thurkle,Resolved
+TICK-1449,2026-08-25 04:09,2026-08-26 03:36,Account/Access,Low,W. Thurkle,Resolved
+TICK-1450,2026-08-30 00:59,2026-08-30 02:24,Hardware Fault,High,J. Smith,Resolved
+TICK-1451,2026-08-22 15:22,2026-08-22 18:53,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1452,2026-08-16 14:59,2026-08-16 20:12,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1453,2026-08-20 17:06,2026-08-20 21:32,Hardware Fault,High,M. Chen,Resolved
+TICK-1454,2026-08-21 18:47,2026-08-22 14:57,Network Connectivity,Low,A. Patel,Resolved
+TICK-1455,2026-08-18 19:21,2026-08-19 08:42,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1456,2026-09-12 14:17,2026-09-13 10:52,Account/Access,Low,A. Patel,Resolved
+TICK-1457,2026-08-17 17:25,2026-08-18 12:41,Account/Access,Low,J. Smith,Resolved
+TICK-1458,2026-08-29 02:36,2026-08-29 04:10,Account/Access,High,J. Smith,Resolved
+TICK-1459,2026-08-19 20:23,2026-08-20 04:23,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1460,2026-09-12 11:23,2026-09-12 15:53,Application Support,High,W. Thurkle,Resolved
+TICK-1461,2026-08-21 12:13,2026-08-21 15:09,Account/Access,Critical,J. Smith,Resolved
+TICK-1462,2026-09-05 07:58,2026-09-05 11:20,Printer/Device,High,A. Patel,Resolved
+TICK-1463,2026-08-29 00:13,2026-08-29 08:14,Application Support,Medium,M. Chen,Resolved
+TICK-1464,2026-08-17 10:13,2026-08-17 11:07,Account/Access,Critical,A. Patel,Resolved
+TICK-1465,2026-09-09 20:34,2026-09-09 22:52,Account/Access,High,M. Chen,Resolved
+TICK-1466,2026-08-23 03:12,2026-08-23 06:55,Hardware Fault,High,J. Smith,Resolved
+TICK-1467,2026-08-18 07:13,2026-08-18 17:06,Account/Access,Low,J. Smith,Resolved
+TICK-1468,2026-08-28 16:40,2026-08-29 12:26,Network Connectivity,Low,A. Patel,Resolved
+TICK-1469,2026-09-09 00:37,2026-09-09 02:55,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1470,2026-09-05 16:22,2026-09-06 00:57,Account/Access,Low,J. Smith,Resolved
+TICK-1471,2026-08-16 01:05,2026-08-16 04:49,Account/Access,Medium,M. Chen,Resolved
+TICK-1472,2026-08-18 07:58,2026-08-19 03:09,Hardware Fault,Low,J. Smith,Resolved
+TICK-1473,2026-08-19 05:00,2026-08-19 13:06,Account/Access,Medium,A. Patel,Resolved
+TICK-1474,2026-09-11 11:57,2026-09-12 04:10,Printer/Device,Low,J. Smith,Resolved
+TICK-1475,2026-08-18 01:21,2026-08-19 00:05,Network Connectivity,Low,W. Thurkle,Resolved
+TICK-1476,2026-08-20 05:21,2026-08-20 08:00,Network Connectivity,Low,M. Chen,Resolved
+TICK-1477,2026-08-20 05:13,2026-08-21 02:39,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1478,2026-09-02 14:59,2026-09-03 01:41,Application Support,Medium,M. Chen,Resolved
+TICK-1479,2026-08-16 21:21,2026-08-17 18:49,Hardware Fault,Low,J. Smith,Resolved
+TICK-1480,2026-09-03 04:49,2026-09-03 07:13,Application Support,Critical,A. Patel,Resolved
+TICK-1481,2026-08-29 15:50,2026-08-29 20:23,Account/Access,Medium,A. Patel,Resolved
+TICK-1482,2026-08-20 11:19,2026-08-20 16:05,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1483,2026-09-08 09:36,2026-09-08 13:10,Account/Access,Medium,J. Smith,Resolved
+TICK-1484,2026-08-18 05:19,2026-08-18 10:52,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1485,2026-09-07 06:15,2026-09-07 07:34,Account/Access,Critical,J. Smith,Resolved
+TICK-1486,2026-08-20 11:22,2026-08-20 22:25,Network Connectivity,Medium,W. Thurkle,Resolved
+TICK-1487,2026-09-05 04:39,2026-09-06 03:31,Account/Access,Low,M. Chen,Resolved
+TICK-1488,2026-08-31 06:44,2026-08-31 21:58,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1489,2026-08-30 17:42,2026-08-30 22:34,Network Connectivity,Low,J. Smith,Resolved
+TICK-1490,2026-09-11 20:37,2026-09-12 11:31,Account/Access,Low,J. Smith,Resolved
+TICK-1491,2026-09-07 12:40,2026-09-07 13:56,Network Connectivity,Critical,M. Chen,Resolved
+TICK-1492,2026-09-01 15:57,2026-09-01 18:13,Account/Access,Critical,M. Chen,Resolved
+TICK-1493,2026-09-08 02:23,2026-09-09 01:42,Application Support,Low,A. Patel,Resolved
+TICK-1494,2026-08-21 21:16,2026-08-22 14:25,Hardware Fault,Low,J. Smith,Resolved
+TICK-1495,2026-08-20 06:37,2026-08-20 16:59,Application Support,Medium,W. Thurkle,Resolved
+TICK-1496,2026-08-20 12:56,2026-08-20 20:58,Network Connectivity,Medium,W. Thurkle,Resolved
+TICK-1497,2026-09-12 02:28,2026-09-13 02:05,Application Support,Low,J. Smith,Resolved
+TICK-1498,2026-09-03 10:20,2026-09-03 19:22,Network Connectivity,Medium,A. Patel,Resolved
+TICK-1499,2026-08-28 10:53,2026-08-28 18:31,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1500,2026-09-05 13:50,2026-09-05 16:40,Account/Access,Medium,M. Chen,Resolved
+TICK-1501,2026-08-29 21:28,2026-08-30 10:00,Account/Access,Low,J. Smith,Resolved
+TICK-1502,2026-08-19 20:30,2026-08-20 05:31,Network Connectivity,Low,W. Thurkle,Resolved
+TICK-1503,2026-08-17 05:47,2026-08-17 12:48,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1504,2026-08-25 11:50,2026-08-25 17:34,Network Connectivity,Medium,J. Smith,Resolved
+TICK-1505,2026-09-02 08:16,2026-09-03 07:42,Hardware Fault,Low,M. Chen,Resolved
+TICK-1506,2026-09-05 03:51,2026-09-05 12:03,Application Support,Low,J. Smith,Resolved
+TICK-1507,2026-08-17 23:38,2026-08-18 01:14,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1508,2026-08-27 21:28,2026-08-28 00:40,Application Support,Medium,W. Thurkle,Resolved
+TICK-1509,2026-08-21 10:02,2026-08-21 12:19,Printer/Device,Medium,M. Chen,Resolved
+TICK-1510,2026-08-29 10:41,2026-08-29 15:57,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1511,2026-09-10 15:54,2026-09-11 04:08,Account/Access,Low,J. Smith,Resolved
+TICK-1512,2026-09-09 06:59,2026-09-09 09:03,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1513,2026-09-08 08:41,2026-09-08 12:01,Application Support,Low,M. Chen,Resolved
+TICK-1514,2026-09-08 16:05,2026-09-08 19:12,Account/Access,High,J. Smith,Resolved
+TICK-1515,2026-08-29 06:21,2026-08-29 12:52,Network Connectivity,Medium,J. Smith,Resolved
+TICK-1516,2026-08-18 20:50,2026-08-18 23:45,Hardware Fault,Critical,J. Smith,Resolved
+TICK-1517,2026-08-18 21:44,2026-08-19 09:43,Printer/Device,Medium,J. Smith,Resolved
+TICK-1518,2026-09-09 01:47,2026-09-09 02:39,Network Connectivity,High,M. Chen,Resolved
+TICK-1519,2026-08-31 20:45,2026-09-01 07:51,Network Connectivity,Medium,W. Thurkle,Resolved
+TICK-1520,2026-09-07 19:12,2026-09-08 00:45,Account/Access,Medium,J. Smith,Resolved
+TICK-1521,2026-09-01 04:26,2026-09-01 08:45,Printer/Device,Low,W. Thurkle,Resolved
+TICK-1522,2026-09-07 21:04,2026-09-07 23:01,Network Connectivity,High,M. Chen,Resolved
+TICK-1523,2026-09-01 07:14,2026-09-01 15:02,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1524,2026-08-16 11:28,2026-08-17 05:53,Account/Access,Low,A. Patel,Resolved
+TICK-1525,2026-09-10 20:43,2026-09-11 04:53,Network Connectivity,Low,M. Chen,Resolved
+TICK-1526,2026-09-09 23:26,2026-09-10 08:02,Printer/Device,Low,M. Chen,Resolved
+TICK-1527,2026-09-07 07:10,2026-09-07 09:09,Application Support,Medium,M. Chen,Resolved
+TICK-1528,2026-08-21 15:06,2026-08-21 20:22,Application Support,High,W. Thurkle,Resolved
+TICK-1529,2026-08-30 11:14,2026-08-30 13:44,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1530,2026-08-20 12:30,2026-08-20 15:13,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1531,2026-09-11 18:41,2026-09-11 21:58,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1532,2026-09-04 11:31,2026-09-04 23:05,Account/Access,Medium,M. Chen,Resolved
+TICK-1533,2026-09-01 16:42,2026-09-01 21:19,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1534,2026-08-23 15:46,2026-08-24 03:23,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1535,2026-09-03 15:33,2026-09-03 16:46,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1536,2026-08-29 05:20,2026-08-29 07:03,Hardware Fault,High,A. Patel,Resolved
+TICK-1537,2026-09-05 14:55,2026-09-05 20:06,Hardware Fault,High,M. Chen,Resolved
+TICK-1538,2026-08-22 16:45,2026-08-22 19:27,Application Support,High,W. Thurkle,Resolved
+TICK-1539,2026-08-15 13:56,2026-08-15 17:31,Printer/Device,High,A. Patel,Resolved
+TICK-1540,2026-08-23 22:38,2026-08-24 00:39,Hardware Fault,Critical,A. Patel,Resolved
+TICK-1541,2026-08-23 01:47,2026-08-23 07:05,Network Connectivity,Low,J. Smith,Resolved
+TICK-1542,2026-09-11 06:29,2026-09-11 14:45,Network Connectivity,Medium,J. Smith,Resolved
+TICK-1543,2026-09-05 20:32,2026-09-06 07:44,Printer/Device,Low,M. Chen,Resolved
+TICK-1544,2026-09-06 06:56,2026-09-06 09:19,Printer/Device,High,J. Smith,Resolved
+TICK-1545,2026-09-04 19:11,2026-09-04 21:39,Account/Access,High,A. Patel,Resolved
+TICK-1546,2026-09-09 15:46,2026-09-09 19:54,Network Connectivity,Low,J. Smith,Resolved
+TICK-1547,2026-09-06 11:22,2026-09-06 17:04,Account/Access,High,A. Patel,Resolved
+TICK-1548,2026-09-03 16:04,2026-09-03 18:53,Hardware Fault,High,A. Patel,Resolved
+TICK-1549,2026-08-26 08:07,2026-08-26 11:18,Account/Access,Low,W. Thurkle,Resolved
+TICK-1550,2026-08-29 04:36,2026-08-29 11:25,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1551,2026-08-16 22:07,2026-08-17 09:07,Hardware Fault,Low,M. Chen,Resolved
+TICK-1552,2026-08-19 14:24,2026-08-19 23:43,Hardware Fault,Low,J. Smith,Resolved
+TICK-1553,2026-08-24 08:53,2026-08-25 03:55,Account/Access,Low,J. Smith,Resolved
+TICK-1554,2026-08-29 22:47,2026-08-30 06:45,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1555,2026-08-28 00:19,2026-08-28 09:22,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1556,2026-09-11 00:28,2026-09-11 02:33,Account/Access,Low,J. Smith,Resolved
+TICK-1557,2026-08-22 02:20,2026-08-22 15:24,Account/Access,Low,A. Patel,Resolved
+TICK-1558,2026-08-20 07:09,2026-08-21 01:09,Hardware Fault,Low,A. Patel,Resolved
+TICK-1559,2026-08-28 05:46,2026-08-28 07:21,Hardware Fault,Critical,J. Smith,Resolved
+TICK-1560,2026-08-20 06:26,2026-08-20 13:22,Network Connectivity,Low,J. Smith,Resolved
+TICK-1561,2026-08-21 06:56,2026-08-22 00:34,Account/Access,Low,W. Thurkle,Resolved
+TICK-1562,2026-08-26 11:12,2026-08-26 18:44,Application Support,Medium,W. Thurkle,Resolved
+TICK-1563,2026-09-04 01:48,2026-09-04 07:23,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1564,2026-08-18 18:10,2026-08-19 11:15,Application Support,Low,W. Thurkle,Resolved
+TICK-1565,2026-08-24 06:04,2026-08-24 21:24,Application Support,Low,J. Smith,Resolved
+TICK-1566,2026-08-27 21:12,2026-08-28 01:18,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1567,2026-08-30 03:07,2026-08-30 08:58,Application Support,High,A. Patel,Resolved
+TICK-1568,2026-09-05 04:05,2026-09-05 07:22,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1569,2026-08-24 20:43,2026-08-25 01:48,Application Support,High,M. Chen,Resolved
+TICK-1570,2026-08-19 10:56,2026-08-19 13:03,Account/Access,Medium,A. Patel,Resolved
+TICK-1571,2026-09-03 11:09,2026-09-03 14:15,Printer/Device,Low,J. Smith,Resolved
+TICK-1572,2026-09-10 12:33,2026-09-10 18:15,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1573,2026-08-18 02:38,2026-08-18 06:47,Hardware Fault,High,J. Smith,Resolved
+TICK-1574,2026-08-25 04:14,2026-08-25 22:22,Printer/Device,Low,A. Patel,Resolved
+TICK-1575,2026-09-08 11:15,2026-09-08 12:15,Account/Access,Critical,M. Chen,Resolved
+TICK-1576,2026-09-04 20:10,2026-09-04 21:35,Account/Access,High,J. Smith,Resolved
+TICK-1577,2026-09-04 20:29,2026-09-05 07:38,Printer/Device,Low,M. Chen,Resolved
+TICK-1578,2026-09-08 07:04,2026-09-08 16:57,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1579,2026-09-10 04:30,2026-09-10 07:40,Application Support,High,M. Chen,Resolved
+TICK-1580,2026-08-18 12:05,2026-08-18 21:00,Hardware Fault,Low,J. Smith,Resolved
+TICK-1581,2026-09-13 13:26,2026-09-13 22:09,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1582,2026-08-28 05:34,2026-08-28 13:37,Account/Access,Medium,J. Smith,Resolved
+TICK-1583,2026-09-09 08:20,2026-09-10 00:30,Printer/Device,Low,J. Smith,Resolved
+TICK-1584,2026-08-30 07:21,2026-08-31 01:53,Account/Access,Low,A. Patel,Resolved
+TICK-1585,2026-08-22 13:48,2026-08-23 05:57,Hardware Fault,Low,M. Chen,Resolved
+TICK-1586,2026-09-08 11:45,2026-09-08 13:43,Account/Access,Medium,M. Chen,Resolved
+TICK-1587,2026-08-28 09:44,2026-08-28 11:51,Account/Access,Medium,M. Chen,Resolved
+TICK-1588,2026-08-16 05:57,2026-08-16 11:44,Network Connectivity,High,A. Patel,Resolved
+TICK-1589,2026-09-10 21:09,2026-09-11 01:54,Application Support,Medium,W. Thurkle,Resolved
+TICK-1590,2026-09-08 19:02,2026-09-08 22:50,Account/Access,High,A. Patel,Resolved
+TICK-1591,2026-09-05 11:15,2026-09-05 20:46,Application Support,Low,A. Patel,Resolved
+TICK-1592,2026-08-31 12:44,2026-08-31 15:56,Hardware Fault,High,M. Chen,Resolved
+TICK-1593,2026-08-18 09:46,2026-08-18 12:26,Hardware Fault,High,M. Chen,Resolved
+TICK-1594,2026-09-08 18:14,2026-09-08 19:00,Account/Access,High,W. Thurkle,Resolved
+TICK-1595,2026-09-07 07:06,2026-09-07 07:43,Application Support,Critical,M. Chen,Resolved
+TICK-1596,2026-08-15 09:08,2026-08-15 16:34,Account/Access,Medium,J. Smith,Resolved
+TICK-1597,2026-09-04 18:30,2026-09-05 10:58,Network Connectivity,Low,A. Patel,Resolved
+TICK-1598,2026-08-30 05:27,2026-08-30 10:09,Printer/Device,High,A. Patel,Resolved
+TICK-1599,2026-08-27 00:33,2026-08-27 01:48,Hardware Fault,High,A. Patel,Resolved
+TICK-1600,2026-09-09 11:09,2026-09-09 18:14,Account/Access,Medium,J. Smith,Resolved
+TICK-1601,2026-08-21 05:32,2026-08-21 22:20,Hardware Fault,Low,J. Smith,Resolved
+TICK-1602,2026-08-30 08:24,2026-08-30 18:09,Account/Access,Low,M. Chen,Resolved
+TICK-1603,2026-09-01 19:42,2026-09-02 06:32,Application Support,Medium,A. Patel,Resolved
+TICK-1604,2026-09-10 10:40,2026-09-10 21:02,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1605,2026-09-04 03:14,2026-09-04 11:32,Application Support,Low,A. Patel,Resolved
+TICK-1606,2026-08-19 08:42,2026-08-19 22:36,Application Support,Low,A. Patel,Resolved
+TICK-1607,2026-09-08 09:47,2026-09-08 20:17,Network Connectivity,Medium,M. Chen,Resolved
+TICK-1608,2026-08-22 09:34,2026-08-23 02:11,Application Support,Low,M. Chen,Resolved
+TICK-1609,2026-08-26 23:16,2026-08-27 13:24,Printer/Device,Low,W. Thurkle,Resolved
+TICK-1610,2026-09-06 08:08,2026-09-06 11:04,Network Connectivity,High,J. Smith,Resolved
+TICK-1611,2026-09-11 13:58,2026-09-11 17:29,Application Support,High,J. Smith,Resolved
+TICK-1612,2026-09-07 15:07,2026-09-08 08:08,Hardware Fault,Low,J. Smith,Resolved
+TICK-1613,2026-09-13 02:59,2026-09-13 11:08,Hardware Fault,Low,A. Patel,Resolved
+TICK-1614,2026-08-19 02:08,2026-08-19 19:45,Hardware Fault,Low,J. Smith,Resolved
+TICK-1615,2026-08-16 12:42,2026-08-16 16:38,Application Support,High,A. Patel,Resolved
+TICK-1616,2026-08-29 21:35,2026-08-29 23:49,Account/Access,High,J. Smith,Resolved
+TICK-1617,2026-09-12 20:53,2026-09-13 10:50,Application Support,Low,M. Chen,Resolved
+TICK-1618,2026-08-17 19:04,2026-08-18 05:00,Hardware Fault,Low,J. Smith,Resolved
+TICK-1619,2026-09-12 17:03,2026-09-13 02:20,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1620,2026-08-18 12:43,2026-08-18 23:49,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1621,2026-09-12 23:53,2026-09-13 05:35,Account/Access,High,M. Chen,Resolved
+TICK-1622,2026-08-22 22:38,2026-08-23 08:07,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1623,2026-08-29 16:07,2026-08-29 19:56,Application Support,Low,W. Thurkle,Resolved
+TICK-1624,2026-08-20 08:44,2026-08-20 12:11,Account/Access,Low,J. Smith,Resolved
+TICK-1625,2026-09-10 01:40,2026-09-10 10:23,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1626,2026-09-03 17:34,2026-09-04 05:41,Application Support,Low,A. Patel,Resolved
+TICK-1627,2026-08-16 02:40,2026-08-16 06:13,Hardware Fault,Low,J. Smith,Resolved
+TICK-1628,2026-09-11 10:38,2026-09-11 15:07,Account/Access,Medium,M. Chen,Resolved
+TICK-1629,2026-09-04 08:47,2026-09-04 18:05,Application Support,Medium,W. Thurkle,Resolved
+TICK-1630,2026-09-05 00:01,2026-09-05 19:19,Printer/Device,Low,A. Patel,Resolved
+TICK-1631,2026-09-02 06:12,2026-09-03 02:17,Printer/Device,Low,W. Thurkle,Resolved
+TICK-1632,2026-08-29 09:15,2026-08-30 04:48,Hardware Fault,Low,A. Patel,Resolved
+TICK-1633,2026-09-12 19:23,2026-09-13 00:16,Application Support,High,A. Patel,Resolved
+TICK-1634,2026-09-12 16:05,2026-09-12 19:00,Network Connectivity,Low,M. Chen,Resolved
+TICK-1635,2026-08-31 10:52,2026-08-31 21:49,Account/Access,Medium,A. Patel,Resolved
+TICK-1636,2026-08-21 16:10,2026-08-21 22:12,Network Connectivity,Low,A. Patel,Resolved
+TICK-1637,2026-08-20 20:23,2026-08-21 01:34,Application Support,High,M. Chen,Resolved
+TICK-1638,2026-09-03 07:33,2026-09-03 13:54,Application Support,Low,M. Chen,Resolved
+TICK-1639,2026-09-12 15:20,2026-09-12 23:36,Application Support,Low,W. Thurkle,Resolved
+TICK-1640,2026-09-11 01:55,2026-09-11 06:17,Account/Access,Medium,J. Smith,Resolved
+TICK-1641,2026-09-01 01:30,2026-09-01 02:33,Account/Access,Medium,J. Smith,Resolved
+TICK-1642,2026-09-07 19:27,2026-09-08 05:21,Application Support,Low,A. Patel,Resolved
+TICK-1643,2026-09-10 11:22,2026-09-11 01:30,Account/Access,Low,J. Smith,Resolved
+TICK-1644,2026-09-03 08:16,2026-09-03 13:40,Hardware Fault,High,J. Smith,Resolved
+TICK-1645,2026-08-23 05:03,2026-08-23 07:27,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1646,2026-09-08 13:33,2026-09-08 16:21,Application Support,Low,A. Patel,Resolved
+TICK-1647,2026-08-31 15:56,2026-08-31 18:27,Account/Access,High,J. Smith,Resolved
+TICK-1648,2026-09-10 22:23,2026-09-11 11:24,Network Connectivity,Low,W. Thurkle,Resolved
+TICK-1649,2026-08-27 01:22,2026-08-27 06:18,Application Support,High,J. Smith,Resolved
+TICK-1650,2026-09-06 17:15,2026-09-07 00:28,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1651,2026-09-06 05:21,2026-09-06 18:05,Account/Access,Low,W. Thurkle,Resolved
+TICK-1652,2026-08-22 23:20,2026-08-23 09:02,Application Support,Medium,M. Chen,Resolved
+TICK-1653,2026-08-29 05:22,2026-08-29 06:30,Hardware Fault,Critical,A. Patel,Resolved
+TICK-1654,2026-09-09 02:24,2026-09-09 18:46,Account/Access,Low,A. Patel,Resolved
+TICK-1655,2026-09-01 22:46,2026-09-02 22:10,Hardware Fault,Low,J. Smith,Resolved
+TICK-1656,2026-08-30 13:58,2026-08-30 20:16,Network Connectivity,Medium,W. Thurkle,Resolved
+TICK-1657,2026-08-30 01:22,2026-08-30 17:31,Hardware Fault,Low,J. Smith,Resolved
+TICK-1658,2026-08-19 12:24,2026-08-19 16:32,Application Support,High,M. Chen,Resolved
+TICK-1659,2026-09-08 13:54,2026-09-08 17:13,Account/Access,Medium,J. Smith,Resolved
+TICK-1660,2026-09-03 12:47,2026-09-04 03:49,Hardware Fault,Low,J. Smith,Resolved
+TICK-1661,2026-09-02 20:19,2026-09-03 04:00,Account/Access,Low,J. Smith,Resolved
+TICK-1662,2026-08-30 14:41,2026-08-31 01:21,Printer/Device,Medium,A. Patel,Resolved
+TICK-1663,2026-09-12 10:50,2026-09-12 17:08,Application Support,Medium,J. Smith,Resolved
+TICK-1664,2026-09-09 02:31,2026-09-09 04:01,Application Support,High,A. Patel,Resolved
+TICK-1665,2026-08-20 06:16,2026-08-20 08:02,Printer/Device,Medium,M. Chen,Resolved
+TICK-1666,2026-08-26 13:16,2026-08-26 16:33,Hardware Fault,High,M. Chen,Resolved
+TICK-1667,2026-09-08 23:48,2026-09-09 03:36,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1668,2026-08-18 00:21,2026-08-18 01:21,Network Connectivity,Medium,M. Chen,Resolved
+TICK-1669,2026-08-30 18:14,2026-08-30 21:45,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1670,2026-09-07 18:57,2026-09-08 04:19,Application Support,Medium,W. Thurkle,Resolved
+TICK-1671,2026-08-27 19:33,2026-08-27 20:31,Application Support,High,M. Chen,Resolved
+TICK-1672,2026-08-22 16:20,2026-08-23 05:49,Application Support,Low,W. Thurkle,Resolved
+TICK-1673,2026-08-26 06:44,2026-08-26 08:54,Network Connectivity,Medium,M. Chen,Resolved
+TICK-1674,2026-09-03 14:19,2026-09-03 19:21,Network Connectivity,Medium,A. Patel,Resolved
+TICK-1675,2026-09-13 20:43,2026-09-14 03:51,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1676,2026-08-26 06:45,2026-08-26 16:20,Hardware Fault,Low,M. Chen,Resolved
+TICK-1677,2026-09-06 08:58,2026-09-06 14:53,Application Support,Medium,J. Smith,Resolved
+TICK-1678,2026-08-18 03:56,2026-08-18 07:49,Application Support,High,W. Thurkle,Resolved
+TICK-1679,2026-08-20 04:02,2026-08-20 09:14,Hardware Fault,Low,M. Chen,Resolved
+TICK-1680,2026-08-17 16:45,2026-08-18 01:43,Account/Access,Medium,M. Chen,Resolved
+TICK-1681,2026-09-02 13:55,2026-09-03 01:19,Application Support,Medium,J. Smith,Resolved
+TICK-1682,2026-09-03 08:03,2026-09-03 17:54,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1683,2026-08-21 02:43,2026-08-21 10:29,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1684,2026-08-26 00:13,2026-08-26 08:17,Printer/Device,Low,M. Chen,Resolved
+TICK-1685,2026-08-25 16:51,2026-08-26 01:58,Application Support,Medium,W. Thurkle,Resolved
+TICK-1686,2026-09-11 17:57,2026-09-12 01:22,Application Support,Medium,A. Patel,Resolved
+TICK-1687,2026-09-12 22:59,2026-09-13 21:26,Application Support,Low,W. Thurkle,Resolved
+TICK-1688,2026-08-22 22:43,2026-08-23 07:12,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1689,2026-09-08 10:20,2026-09-08 14:00,Network Connectivity,High,M. Chen,Resolved
+TICK-1690,2026-09-13 03:51,2026-09-13 09:38,Application Support,High,M. Chen,Resolved
+TICK-1691,2026-09-04 18:22,2026-09-04 22:12,Network Connectivity,Medium,M. Chen,Resolved
+TICK-1692,2026-09-03 08:50,2026-09-03 17:47,Application Support,Low,A. Patel,Resolved
+TICK-1693,2026-08-30 10:38,2026-08-30 14:41,Network Connectivity,Low,A. Patel,Resolved
+TICK-1694,2026-08-17 14:42,2026-08-18 12:23,Account/Access,Low,A. Patel,Resolved
+TICK-1695,2026-08-20 17:43,2026-08-21 11:56,Printer/Device,Low,J. Smith,Resolved
+TICK-1696,2026-09-06 08:53,2026-09-06 16:23,Hardware Fault,Low,A. Patel,Resolved
+TICK-1697,2026-08-19 16:02,2026-08-20 00:20,Printer/Device,Medium,W. Thurkle,Resolved
+TICK-1698,2026-09-07 02:19,2026-09-07 10:09,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1699,2026-09-11 06:07,2026-09-11 12:08,Account/Access,Low,A. Patel,Resolved
+TICK-1700,2026-08-27 04:38,2026-08-27 10:17,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1701,2026-08-30 04:22,2026-08-31 03:51,Application Support,Low,M. Chen,Resolved
+TICK-1702,2026-08-24 10:00,2026-08-24 14:13,Application Support,Low,A. Patel,Resolved
+TICK-1703,2026-09-02 10:27,2026-09-02 22:49,Account/Access,Low,A. Patel,Resolved
+TICK-1704,2026-08-26 03:06,2026-08-26 08:12,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1705,2026-08-23 09:47,2026-08-23 13:18,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1706,2026-09-05 21:41,2026-09-05 23:16,Account/Access,High,J. Smith,Resolved
+TICK-1707,2026-08-29 03:18,2026-08-30 00:57,Account/Access,Low,A. Patel,Resolved
+TICK-1708,2026-09-07 15:06,2026-09-07 20:28,Account/Access,Medium,J. Smith,Resolved
+TICK-1709,2026-08-17 02:01,2026-08-17 07:58,Account/Access,Medium,A. Patel,Resolved
+TICK-1710,2026-08-22 21:17,2026-08-22 23:41,Account/Access,High,M. Chen,Resolved
+TICK-1711,2026-08-18 22:37,2026-08-19 13:17,Printer/Device,Low,J. Smith,Resolved
+TICK-1712,2026-09-13 10:39,2026-09-13 20:10,Account/Access,Medium,M. Chen,Resolved
+TICK-1713,2026-09-10 19:00,2026-09-10 21:35,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1714,2026-09-03 13:09,2026-09-03 18:37,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1715,2026-08-17 11:03,2026-08-17 19:52,Account/Access,Medium,M. Chen,Resolved
+TICK-1716,2026-08-23 06:24,2026-08-23 21:19,Network Connectivity,Low,M. Chen,Resolved
+TICK-1717,2026-08-27 10:34,2026-08-27 18:51,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1718,2026-08-21 10:14,2026-08-21 13:20,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1719,2026-08-15 21:36,2026-08-16 05:23,Application Support,Low,J. Smith,Resolved
+TICK-1720,2026-08-17 20:40,2026-08-18 14:54,Account/Access,Low,M. Chen,Resolved
+TICK-1721,2026-09-02 19:02,2026-09-03 11:38,Network Connectivity,Low,A. Patel,Resolved
+TICK-1722,2026-09-10 01:35,2026-09-10 05:06,Network Connectivity,High,J. Smith,Resolved
+TICK-1723,2026-09-13 07:42,2026-09-13 15:38,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1724,2026-08-30 21:56,2026-08-31 11:49,Account/Access,Low,W. Thurkle,Resolved
+TICK-1725,2026-08-28 08:27,2026-08-28 10:27,Hardware Fault,Low,J. Smith,Resolved
+TICK-1726,2026-08-25 10:56,2026-08-25 16:39,Hardware Fault,High,M. Chen,Resolved
+TICK-1727,2026-08-24 06:02,2026-08-24 15:48,Application Support,Medium,A. Patel,Resolved
+TICK-1728,2026-08-20 23:15,2026-08-21 16:58,Account/Access,Low,M. Chen,Resolved
+TICK-1729,2026-09-08 21:20,2026-09-09 04:00,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1730,2026-08-23 19:03,2026-08-24 05:26,Network Connectivity,Medium,J. Smith,Resolved
+TICK-1731,2026-08-19 02:08,2026-08-19 10:50,Account/Access,Medium,M. Chen,Resolved
+TICK-1732,2026-08-20 14:03,2026-08-20 17:06,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1733,2026-08-23 11:02,2026-08-23 15:01,Account/Access,Low,W. Thurkle,Resolved
+TICK-1734,2026-08-29 21:27,2026-08-30 03:26,Account/Access,High,M. Chen,Resolved
+TICK-1735,2026-09-04 20:46,2026-09-04 22:04,Hardware Fault,High,A. Patel,Resolved
+TICK-1736,2026-09-07 05:50,2026-09-08 02:21,Account/Access,Low,M. Chen,Resolved
+TICK-1737,2026-09-08 20:13,2026-09-09 15:11,Application Support,Low,M. Chen,Resolved
+TICK-1738,2026-08-22 18:33,2026-08-22 20:35,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1739,2026-08-29 09:54,2026-08-30 01:45,Account/Access,Low,W. Thurkle,Resolved
+TICK-1740,2026-09-06 12:21,2026-09-06 16:38,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1741,2026-09-10 22:18,2026-09-11 14:14,Hardware Fault,Low,A. Patel,Resolved
+TICK-1742,2026-08-15 17:27,2026-08-16 00:48,Application Support,Low,W. Thurkle,Resolved
+TICK-1743,2026-09-01 15:56,2026-09-02 10:54,Application Support,Low,J. Smith,Resolved
+TICK-1744,2026-08-19 17:07,2026-08-19 23:06,Application Support,High,W. Thurkle,Resolved
+TICK-1745,2026-08-17 00:08,2026-08-17 01:20,Application Support,High,J. Smith,Resolved
+TICK-1746,2026-08-24 16:17,2026-08-25 13:54,Application Support,Low,J. Smith,Resolved
+TICK-1747,2026-08-15 17:48,2026-08-15 20:40,Application Support,Low,M. Chen,Resolved
+TICK-1748,2026-08-31 22:35,2026-09-01 05:33,Account/Access,Medium,A. Patel,Resolved
+TICK-1749,2026-09-06 00:44,2026-09-06 04:17,Network Connectivity,High,W. Thurkle,Resolved
+TICK-1750,2026-08-31 01:34,2026-08-31 07:34,Network Connectivity,Medium,M. Chen,Resolved
+TICK-1751,2026-09-06 07:43,2026-09-06 23:22,Application Support,Low,A. Patel,Resolved
+TICK-1752,2026-09-05 20:21,2026-09-06 09:53,Account/Access,Low,M. Chen,Resolved
+TICK-1753,2026-09-06 23:31,2026-09-07 04:04,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1754,2026-08-30 16:01,2026-08-31 13:14,Network Connectivity,Low,J. Smith,Resolved
+TICK-1755,2026-08-18 05:39,2026-08-18 10:55,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1756,2026-08-31 00:15,2026-08-31 15:35,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1757,2026-08-15 17:17,2026-08-15 22:22,Application Support,High,M. Chen,Resolved
+TICK-1758,2026-09-08 00:00,2026-09-08 02:47,Account/Access,High,A. Patel,Resolved
+TICK-1759,2026-09-07 19:06,2026-09-08 04:10,Application Support,Medium,A. Patel,Resolved
+TICK-1760,2026-08-17 08:55,2026-08-17 16:00,Account/Access,Low,M. Chen,Resolved
+TICK-1761,2026-08-20 20:20,2026-08-20 23:18,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1762,2026-09-06 15:31,2026-09-07 00:14,Account/Access,Medium,M. Chen,Resolved
+TICK-1763,2026-09-10 11:57,2026-09-10 16:40,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1764,2026-08-31 05:04,2026-08-31 08:35,Printer/Device,High,A. Patel,Resolved
+TICK-1765,2026-09-09 11:04,2026-09-09 13:21,Application Support,High,J. Smith,Resolved
+TICK-1766,2026-08-31 22:15,2026-09-01 00:09,Application Support,High,M. Chen,Resolved
+TICK-1767,2026-08-28 12:49,2026-08-28 14:43,Application Support,Critical,J. Smith,Resolved
+TICK-1768,2026-09-13 20:56,2026-09-14 17:45,Account/Access,Low,W. Thurkle,Resolved
+TICK-1769,2026-09-07 11:35,2026-09-07 14:54,Network Connectivity,High,J. Smith,Resolved
+TICK-1770,2026-08-17 23:09,2026-08-18 20:43,Hardware Fault,Low,J. Smith,Resolved
+TICK-1771,2026-08-22 06:31,2026-08-23 04:43,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1772,2026-09-05 23:34,2026-09-06 03:51,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1773,2026-09-01 22:13,2026-09-02 00:05,Application Support,Medium,W. Thurkle,Resolved
+TICK-1774,2026-09-11 17:45,2026-09-12 04:59,Network Connectivity,Medium,W. Thurkle,Resolved
+TICK-1775,2026-09-10 03:10,2026-09-10 04:17,Application Support,Medium,M. Chen,Resolved
+TICK-1776,2026-08-16 18:52,2026-08-16 23:28,Account/Access,Medium,J. Smith,Resolved
+TICK-1777,2026-08-19 19:41,2026-08-19 22:01,Printer/Device,Critical,W. Thurkle,Resolved
+TICK-1778,2026-08-21 17:27,2026-08-21 21:16,Account/Access,Low,W. Thurkle,Resolved
+TICK-1779,2026-08-31 11:57,2026-08-31 20:37,Account/Access,Medium,J. Smith,Resolved
+TICK-1780,2026-08-29 10:54,2026-08-29 18:04,Account/Access,Medium,J. Smith,Resolved
+TICK-1781,2026-08-22 07:47,2026-08-22 15:07,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1782,2026-09-04 06:33,2026-09-04 21:37,Account/Access,Low,W. Thurkle,Resolved
+TICK-1783,2026-09-07 02:31,2026-09-07 07:26,Account/Access,High,J. Smith,Resolved
+TICK-1784,2026-08-28 13:02,2026-08-28 15:45,Hardware Fault,Medium,W. Thurkle,Resolved
+TICK-1785,2026-08-18 08:06,2026-08-18 13:23,Printer/Device,High,A. Patel,Resolved
+TICK-1786,2026-08-15 15:29,2026-08-15 16:44,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1787,2026-09-06 05:35,2026-09-06 09:06,Account/Access,High,J. Smith,Resolved
+TICK-1788,2026-09-05 01:47,2026-09-05 05:11,Account/Access,High,A. Patel,Resolved
+TICK-1789,2026-08-20 04:07,2026-08-20 05:42,Application Support,Medium,W. Thurkle,Resolved
+TICK-1790,2026-08-17 05:12,2026-08-17 07:41,Application Support,High,W. Thurkle,Resolved
+TICK-1791,2026-08-15 21:04,2026-08-16 07:26,Application Support,Low,W. Thurkle,Resolved
+TICK-1792,2026-09-11 06:17,2026-09-11 12:40,Application Support,Low,M. Chen,Resolved
+TICK-1793,2026-09-01 01:28,2026-09-01 03:39,Hardware Fault,High,M. Chen,Resolved
+TICK-1794,2026-08-26 19:28,2026-08-27 11:14,Account/Access,Low,J. Smith,Resolved
+TICK-1795,2026-09-14 05:33,2026-09-14 13:13,Hardware Fault,Low,M. Chen,Resolved
+TICK-1796,2026-09-10 23:53,2026-09-11 03:58,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1797,2026-08-25 08:40,2026-08-25 15:24,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1798,2026-08-27 16:52,2026-08-28 08:11,Account/Access,Low,M. Chen,Resolved
+TICK-1799,2026-08-31 07:08,2026-08-31 16:56,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1800,2026-08-24 12:11,2026-08-25 12:05,Account/Access,Low,J. Smith,Resolved
+TICK-1801,2026-09-03 20:47,2026-09-04 10:31,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1802,2026-08-20 19:37,2026-08-21 04:38,Hardware Fault,Low,M. Chen,Resolved
+TICK-1803,2026-09-12 21:45,2026-09-13 01:45,Application Support,High,A. Patel,Resolved
+TICK-1804,2026-08-19 13:56,2026-08-20 13:38,Hardware Fault,Low,A. Patel,Resolved
+TICK-1805,2026-09-02 08:49,2026-09-02 11:23,Application Support,Low,W. Thurkle,Resolved
+TICK-1806,2026-09-04 18:53,2026-09-05 03:43,Account/Access,Medium,A. Patel,Resolved
+TICK-1807,2026-08-20 14:59,2026-08-20 21:58,Account/Access,Low,M. Chen,Resolved
+TICK-1808,2026-09-06 21:16,2026-09-07 06:26,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1809,2026-09-06 16:55,2026-09-06 19:33,Printer/Device,Critical,M. Chen,Resolved
+TICK-1810,2026-09-04 22:35,2026-09-05 08:07,Network Connectivity,Medium,M. Chen,Resolved
+TICK-1811,2026-09-05 17:08,2026-09-06 00:02,Printer/Device,Medium,W. Thurkle,Resolved
+TICK-1812,2026-08-30 18:02,2026-08-31 17:57,Network Connectivity,Low,M. Chen,Resolved
+TICK-1813,2026-09-13 11:24,2026-09-13 17:12,Account/Access,High,J. Smith,Resolved
+TICK-1814,2026-08-23 20:17,2026-08-23 23:19,Account/Access,High,M. Chen,Resolved
+TICK-1815,2026-08-24 03:49,2026-08-24 06:52,Application Support,High,M. Chen,Resolved
+TICK-1816,2026-08-17 20:47,2026-08-18 07:37,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1817,2026-08-26 20:54,2026-08-27 07:45,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1818,2026-09-10 10:59,2026-09-10 19:49,Account/Access,Medium,J. Smith,Resolved
+TICK-1819,2026-09-05 13:07,2026-09-05 18:07,Hardware Fault,Medium,M. Chen,Resolved
+TICK-1820,2026-09-06 03:45,2026-09-06 17:52,Application Support,Low,W. Thurkle,Resolved
+TICK-1821,2026-09-07 08:55,2026-09-07 11:34,Account/Access,Medium,J. Smith,Resolved
+TICK-1822,2026-08-20 14:33,2026-08-21 09:28,Account/Access,Low,M. Chen,Resolved
+TICK-1823,2026-08-23 16:23,2026-08-23 16:38,Network Connectivity,Critical,A. Patel,Resolved
+TICK-1824,2026-08-15 12:25,2026-08-15 16:16,Account/Access,High,M. Chen,Resolved
+TICK-1825,2026-08-22 07:49,2026-08-22 09:41,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1826,2026-08-22 12:19,2026-08-22 22:24,Application Support,Medium,W. Thurkle,Resolved
+TICK-1827,2026-08-20 12:17,2026-08-20 15:00,Account/Access,Low,A. Patel,Resolved
+TICK-1828,2026-08-24 21:56,2026-08-24 22:37,Hardware Fault,Critical,A. Patel,Resolved
+TICK-1829,2026-09-02 13:33,2026-09-02 15:02,Application Support,High,M. Chen,Resolved
+TICK-1830,2026-09-06 13:47,2026-09-06 16:03,Hardware Fault,High,M. Chen,Resolved
+TICK-1831,2026-09-08 20:50,2026-09-09 09:11,Network Connectivity,Low,W. Thurkle,Resolved
+TICK-1832,2026-09-04 21:31,2026-09-05 06:11,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1833,2026-08-18 12:39,2026-08-18 14:14,Application Support,Critical,A. Patel,Resolved
+TICK-1834,2026-08-28 02:37,2026-08-28 10:28,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1835,2026-09-02 13:54,2026-09-02 23:48,Application Support,Medium,J. Smith,Resolved
+TICK-1836,2026-09-05 14:38,2026-09-06 06:23,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1837,2026-09-06 03:42,2026-09-06 05:12,Application Support,Medium,A. Patel,Resolved
+TICK-1838,2026-09-01 00:32,2026-09-01 08:43,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1839,2026-08-24 09:19,2026-08-25 02:24,Account/Access,Low,A. Patel,Resolved
+TICK-1840,2026-08-27 01:30,2026-08-27 03:04,Printer/Device,High,A. Patel,Resolved
+TICK-1841,2026-09-11 19:29,2026-09-12 00:28,Account/Access,Low,J. Smith,Resolved
+TICK-1842,2026-09-03 03:09,2026-09-03 22:24,Account/Access,Low,M. Chen,Resolved
+TICK-1843,2026-09-11 19:13,2026-09-12 03:41,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1844,2026-08-21 11:27,2026-08-21 13:54,Application Support,High,J. Smith,Resolved
+TICK-1845,2026-08-23 08:54,2026-08-23 19:10,Printer/Device,Medium,M. Chen,Resolved
+TICK-1846,2026-08-20 14:44,2026-08-21 11:36,Application Support,Low,W. Thurkle,Resolved
+TICK-1847,2026-08-23 03:00,2026-08-23 23:15,Network Connectivity,Low,A. Patel,Resolved
+TICK-1848,2026-08-21 13:18,2026-08-21 18:04,Hardware Fault,High,W. Thurkle,Resolved
+TICK-1849,2026-08-28 06:25,2026-08-28 09:31,Account/Access,Medium,M. Chen,Resolved
+TICK-1850,2026-09-06 03:15,2026-09-07 00:26,Application Support,Low,J. Smith,Resolved
+TICK-1851,2026-08-21 02:45,2026-08-21 03:53,Account/Access,High,A. Patel,Resolved
+TICK-1852,2026-09-12 04:48,2026-09-12 17:05,Application Support,Low,W. Thurkle,Resolved
+TICK-1853,2026-08-18 08:33,2026-08-19 03:14,Application Support,Low,J. Smith,Resolved
+TICK-1854,2026-08-24 15:37,2026-08-25 03:19,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1855,2026-08-23 04:32,2026-08-23 06:20,Hardware Fault,Critical,W. Thurkle,Resolved
+TICK-1856,2026-08-21 06:53,2026-08-22 00:23,Account/Access,Low,A. Patel,Resolved
+TICK-1857,2026-09-01 05:42,2026-09-01 09:11,Account/Access,High,W. Thurkle,Resolved
+TICK-1858,2026-08-19 01:01,2026-08-19 04:12,Application Support,Low,M. Chen,Resolved
+TICK-1859,2026-08-26 23:53,2026-08-27 08:28,Network Connectivity,Medium,M. Chen,Resolved
+TICK-1860,2026-09-02 13:31,2026-09-02 21:54,Network Connectivity,Medium,W. Thurkle,Resolved
+TICK-1861,2026-09-13 11:16,2026-09-14 07:09,Account/Access,Low,M. Chen,Resolved
+TICK-1862,2026-08-17 23:47,2026-08-18 02:52,Application Support,High,J. Smith,Resolved
+TICK-1863,2026-08-19 15:05,2026-08-19 21:07,Hardware Fault,Low,A. Patel,Resolved
+TICK-1864,2026-09-07 23:24,2026-09-08 11:51,Account/Access,Low,A. Patel,Resolved
+TICK-1865,2026-08-29 15:44,2026-08-30 06:23,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1866,2026-08-27 09:53,2026-08-27 11:40,Hardware Fault,Medium,A. Patel,Resolved
+TICK-1867,2026-08-31 02:14,2026-08-31 09:16,Account/Access,Medium,M. Chen,Resolved
+TICK-1868,2026-08-26 14:24,2026-08-27 00:02,Network Connectivity,Medium,M. Chen,Resolved
+TICK-1869,2026-09-01 02:28,2026-09-01 19:12,Application Support,Low,M. Chen,Resolved
+TICK-1870,2026-08-18 14:56,2026-08-19 02:43,Account/Access,Low,A. Patel,Resolved
+TICK-1871,2026-09-12 15:35,2026-09-12 20:20,Hardware Fault,High,M. Chen,Resolved
+TICK-1872,2026-08-25 00:50,2026-08-25 05:54,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1873,2026-09-06 22:21,2026-09-07 13:54,Account/Access,Low,M. Chen,Resolved
+TICK-1874,2026-08-21 02:21,2026-08-21 13:24,Account/Access,Medium,A. Patel,Resolved
+TICK-1875,2026-09-11 21:20,2026-09-12 03:17,Application Support,High,W. Thurkle,Resolved
+TICK-1876,2026-09-02 12:02,2026-09-02 12:52,Network Connectivity,High,W. Thurkle,Resolved
+TICK-1877,2026-08-15 04:52,2026-08-15 13:04,Printer/Device,Low,W. Thurkle,Resolved
+TICK-1878,2026-08-22 07:03,2026-08-22 17:28,Account/Access,Low,M. Chen,Resolved
+TICK-1879,2026-08-28 02:06,2026-08-28 16:19,Hardware Fault,Low,A. Patel,Resolved
+TICK-1880,2026-09-09 04:58,2026-09-09 07:27,Printer/Device,Medium,W. Thurkle,Resolved
+TICK-1881,2026-09-03 10:56,2026-09-03 22:39,Network Connectivity,Medium,J. Smith,Resolved
+TICK-1882,2026-08-17 18:02,2026-08-18 03:43,Account/Access,Medium,M. Chen,Resolved
+TICK-1883,2026-09-02 19:56,2026-09-02 22:33,Account/Access,High,J. Smith,Resolved
+TICK-1884,2026-08-20 18:28,2026-08-20 20:16,Account/Access,High,A. Patel,Resolved
+TICK-1885,2026-08-27 11:55,2026-08-27 13:44,Account/Access,Critical,A. Patel,Resolved
+TICK-1886,2026-08-18 12:57,2026-08-19 07:02,Application Support,Low,A. Patel,Resolved
+TICK-1887,2026-08-28 22:11,2026-08-29 10:35,Network Connectivity,Low,W. Thurkle,Resolved
+TICK-1888,2026-09-04 16:35,2026-09-05 03:31,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1889,2026-08-29 05:22,2026-08-29 11:00,Account/Access,Medium,A. Patel,Resolved
+TICK-1890,2026-08-23 15:14,2026-08-24 00:14,Printer/Device,Medium,A. Patel,Resolved
+TICK-1891,2026-08-16 23:36,2026-08-17 23:24,Hardware Fault,Low,W. Thurkle,Resolved
+TICK-1892,2026-08-23 13:59,2026-08-23 16:01,Account/Access,High,J. Smith,Resolved
+TICK-1893,2026-09-02 12:47,2026-09-02 20:25,Hardware Fault,Medium,J. Smith,Resolved
+TICK-1894,2026-09-03 20:57,2026-09-03 22:44,Hardware Fault,High,J. Smith,Resolved
+TICK-1895,2026-09-08 06:49,2026-09-08 12:01,Account/Access,Low,J. Smith,Resolved
+TICK-1896,2026-09-09 09:16,2026-09-10 01:48,Account/Access,Low,J. Smith,Resolved
+TICK-1897,2026-08-21 13:49,2026-08-21 23:07,Account/Access,Medium,W. Thurkle,Resolved
+TICK-1898,2026-08-16 17:07,2026-08-17 04:32,Account/Access,Medium,J. Smith,Resolved
+TICK-1899,2026-08-26 15:10,2026-08-27 12:19,Account/Access,Low,W. Thurkle,Resolved
+TICK-1900,2026-08-23 22:33,2026-08-24 12:13,Account/Access,Low,W. Thurkle,Resolved
